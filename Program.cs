@@ -72,3 +72,8 @@
 // This section will allow input from the user and based on the amount, PC components will be listed!
 
 #endregion
+static void Main(string[] args)
+{
+    Console.Title = "Computer Creator"; // The name of the console which appears when the program is running
+
+}
